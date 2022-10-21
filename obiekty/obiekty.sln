@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "obiekty", "obiekty\obiekty.pyproj", "{8C74BF19-9AAF-4140-9D4E-F22FEAD47473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C74BF19-9AAF-4140-9D4E-F22FEAD47473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C74BF19-9AAF-4140-9D4E-F22FEAD47473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A314B00-F7F6-4EAC-B0BF-C93CC403B9C3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Obiekowka", "Obiekowka.pyproj", "{79FD5A6C-9608-4F7D-8069-4E97A0B7EEC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FD5A6C-9608-4F7D-8069-4E97A0B7EEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FD5A6C-9608-4F7D-8069-4E97A0B7EEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E391B1-9AA9-4487-ADAA-0576B572AF46}
+	EndGlobalSection
+EndGlobal

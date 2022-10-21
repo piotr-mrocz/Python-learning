@@ -1,0 +1,44 @@
+<GameScreenManager>:
+    Screen:  # pierwszy screen jest wyświetlany domyślnie
+        name: 'game'
+        KivyGame:
+    Screen:
+        name: 'success'
+        BoxLayout:
+            pos: root.pos
+            size: root.size
+
+            Label:
+                font_size: '100sp' 
+                text: "Success!"
+
+        
+<KivyGame>
+    fred: fred
+
+    BoxLayout:
+        pos: root.pos
+        size: root.size
+        Label:
+            text: "to ja - tło"
+            size_hint: 1, 1
+
+    Widget:
+        canvas:
+            Rectangle:
+                pos: self.pos
+                size: self.size
+                source: 'img/fred.png'
+          
+        id: fred
+        size: 145, 145
+        center: 300, 300
+
+<Baloon>:
+    canvas:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: 'img/baloon.png'
+
+    size: 15, 15

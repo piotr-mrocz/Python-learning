@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "baza_danych", "baza_danych.pyproj", "{D6A7C7CD-4DC5-4B2B-981A-AE7B3030718A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A7C7CD-4DC5-4B2B-981A-AE7B3030718A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A7C7CD-4DC5-4B2B-981A-AE7B3030718A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF761682-4BF7-4A4E-8502-1BAE46B15247}
+	EndGlobalSection
+EndGlobal

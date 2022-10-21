@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Funkcja_Kwadratowa", "Funkcja_Kwadratowa.pyproj", "{92DA7357-66A3-4E28-A169-DC5B822072D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DA7357-66A3-4E28-A169-DC5B822072D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DA7357-66A3-4E28-A169-DC5B822072D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F753E11-D9D4-4BDE-B241-4B733AEFC2D8}
+	EndGlobalSection
+EndGlobal
